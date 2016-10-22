@@ -1,0 +1,6 @@
+1) Create a new Raisl application and call it Alpha-Blog
+2) Ensure you can run the server and run the application
+3) Create a pages controller pages_controller.rb folder pages
+4) ensure you have appropriate routes
+5) Create homepage, and about
+6) Use HTML to build home page
